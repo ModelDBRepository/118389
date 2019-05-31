@@ -1,0 +1,5 @@
+touch indata.txt
+
+nice matlab -nojvm -nosplash -r "runTenInhomoFSwithShiftingCorr,quit" < indata.txt &> utdata.txt&
+
+echo "Running matlab in background. Make sure X-forwarding was turned off."

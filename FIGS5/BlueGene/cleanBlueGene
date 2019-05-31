@@ -1,0 +1,5 @@
+rm -r INDATA*
+mkdir INDATA
+rm batchScripts/*
+rm nodeScripts/*
+echo "Cleaned for new Blue Gene setup, run setupBlueGeneFSsensSimulation.m"

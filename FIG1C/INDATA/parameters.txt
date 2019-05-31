@@ -1,0 +1,12 @@
+FSGapEffCalibratePrimShorterPulse
+4.000000
+2.000000
+/fs[0]/soma
+/fs[1]/soma
+INDATA/masterTrain.data
+INDATA/slaveTrain.data
+1
+/fs[0]/primdend1 /fs[1]/primdend1 1000000000000.000000
+2
+1.000000 1.001000 0.000000000200 /fs[0]/soma
+2.000000 3.000000 0.000000000010 /fs[0]/soma
